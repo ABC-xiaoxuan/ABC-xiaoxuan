@@ -12,13 +12,13 @@
 
 ```yaml
 name: xiaoxuan
-role: Full-Stack Developer
+role: 全栈开发工程师
 focus: Building things that work
 location: Earth 🌍
 currently_learning: Always something new
 ```
 
-- 🔭 我正在维护和构建一些有趣的项目
+- 🔭 我是一名全栈开发工程师，正在维护和构建一些有趣的项目
 - 🌱 持续学习中，对全栈技术保持热情
 - 💬 欢迎一起交流技术、探讨问题
 - ⚡ Fun fact: 代码能跑就别动
